@@ -1,0 +1,4 @@
+C:\Users\eozdemir\source\repos\az204-redis\Rediscache\obj\Debug\net8.0\Rediscache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eozdemir\source\repos\az204-redis\Rediscache\obj\Debug\net8.0\Rediscache.AssemblyInfoInputs.cache
+C:\Users\eozdemir\source\repos\az204-redis\Rediscache\obj\Debug\net8.0\Rediscache.AssemblyInfo.cs
+C:\Users\eozdemir\source\repos\az204-redis\Rediscache\obj\Debug\net8.0\Rediscache.csproj.CoreCompileInputs.cache
